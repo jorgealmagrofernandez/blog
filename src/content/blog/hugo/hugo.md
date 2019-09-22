@@ -3,7 +3,7 @@ categories = ["Hugo"]
 date = "2019-01-01"
 title = "Cositas acerca de Hugo"
 type = "post"
-
+draft = true
 +++
 
 Instalación de Hugo en Manjaro:

@@ -1,6 +1,11 @@
 +++
 title = "Acerca de mí"
-description = "Una cosita"
+description = "El responsable de este desaguisado"
 +++
-## Un poco acerca de mí
-Peón y dama
+Peón y dama. Según el día.
+
+En un viaje constante a ninguna parte. Lo importante es el camino. ¿Te apuntas? 
+
+Tratando de encontrarme. Aún no he perdido la esperanza. 
+
+Clyde.
